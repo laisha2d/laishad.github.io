@@ -46,3 +46,6 @@ nav li{
     right-padding:60px;
     text-decoration:none;
   }
+a:hover {
+  background-color: #7C1A00;
+}
