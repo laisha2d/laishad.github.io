@@ -8,6 +8,7 @@ body {
     margin:30px;
   background-color:#F7F3DE;
    background-image: url("page-bg.gif");
+  background-repeat: no-repeat;
 }
 header h1{
   font-size:350%;
