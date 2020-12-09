@@ -66,7 +66,7 @@ header {
         }
  
 h1.logo a {
-    color: #d8d8d8;
+    color: #1b68e3;
     text-decoration: none;
     font-weight: bold;
     text-transform: uppercase;
@@ -79,7 +79,7 @@ h1.logo a {
 a.to_nav {
     float: right;
     color: #fff;
-    background: #4e4e4e;
+    background:#0baed6;
     text-decoration: none;
     padding: 0 10px;
     font-size: 12px;
@@ -108,7 +108,7 @@ ul {
 
 li a {
   display: block;
-  color: #000;
+  color: #f7050d;
   padding: 8px 16px;
   text-decoration: none;
 }
